@@ -1,4 +1,4 @@
-[Seq-Read-16K]
+[Seq-Read-64K]
 include _global.fio
 bs=64K
 rw=read

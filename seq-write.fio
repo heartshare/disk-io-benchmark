@@ -1,4 +1,4 @@
-[Seq-Write-16K]
+[Seq-Write-64K]
 include _global.fio
-bs=16K
+bs=64K
 rw=write
