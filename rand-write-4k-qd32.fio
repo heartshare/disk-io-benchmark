@@ -1,0 +1,5 @@
+[Rand-Write-4K-QD32]
+include _global.fio
+iodepth=32
+bs=4K
+rw=randwrite

@@ -1,0 +1,12 @@
+; Read the doc!
+; https://fio.readthedocs.io/en/latest/fio_doc.html
+ioengine=libaio
+;size=10g
+direct=1
+runtime=60
+directory=/tmp/dsk
+filename=testfile
+filesize=100G
+numjobs=64
+iodepth=1
+thread

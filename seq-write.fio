@@ -1,0 +1,4 @@
+[Seq-Write-16K]
+include _global.fio
+bs=16K
+rw=write
