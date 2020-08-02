@@ -1,0 +1,4 @@
+[Rand-Read-512K]
+include _global.fio
+bs=64K
+rw=randread

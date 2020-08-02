@@ -1,0 +1,4 @@
+[Rand-Write-64K]
+include _global.fio
+bs=64K
+rw=randwrite
